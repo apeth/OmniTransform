@@ -14,4 +14,16 @@ Features:
     * AVRO
     * Parquet
     * Text (any delimiter)
+  
+ Command Line arguments:
+  * --pipeline
+  * --input-format
+  * --output-format
+  * --input-location
+  * --output-location
+  * --file-mode
+  * --root-tag
+  * --row-tag
+  * --query-runtime
+  * --database-type
 
